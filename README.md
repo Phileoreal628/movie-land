@@ -1,1 +1,1 @@
-Movie Listing app
+Movie Searching app  
